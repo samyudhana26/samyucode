@@ -1,2 +1,1 @@
-# demon 6gf
-t
+Samyu is learning to code 
